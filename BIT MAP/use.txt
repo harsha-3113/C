@@ -1,0 +1,10 @@
+This project implements a bitmap in C, a data structure that stores boolean values as individual bits instead of bytes. It demonstrates how bitwise operators can be used to efficiently set, clear, and retrieve specific bits while minimizing memory usage.
+
+The project includes functions to:
+
+1. Create a bitmap.
+2. Set or clear individual bits.
+3. Read the value of a bit.
+4. Initialize the bitmap to zero.
+
+This implementation was built as a learning project to understand bit manipulation, memory allocation, and the practical use of bitwise operators in C.
