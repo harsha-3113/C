@@ -1,0 +1,23 @@
+Binary Search Tree Project
+
+Description:
+This project implements a Binary Search Tree (BST) in C.
+Uses-
+1. Operating systems use tree structures to organize directories.
+2. Caching.
+3. Search bars in websites.
+4. Leaderboard and Ranking system in games.
+
+Features:
+- Node and Leaf insertion
+- Node and Leaf searching
+- Pretty printing of the tree structure
+
+
+Notes:
+- The tree data is currently hardcoded in the source code.
+- The program does not yet accept user input.
+- Modify the insertion statements in tree.c to test with different values.
+
+Author:
+Harsha
